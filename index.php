@@ -30,10 +30,9 @@
 </script>
     <script type="text/javascript">
       var phone_number = '0101-888-365-7259';
-
-    <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=396cebe5"></script>
     </script>
 
+    <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=396cebe5"></script>
 
   </head>
   <body class="map" id="mycanvas" onbeforeunload="return myFunction()" style="cursor:none">
