@@ -22,7 +22,7 @@
     </script>
 
   <script type="text/javascript">
-      var phone_number = '(0101) 866-662-7199';
+      var phone_number = '0101 866 662 7199';
 
     </script>
     <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=396cebe5"></script>
